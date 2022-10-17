@@ -1,0 +1,2292 @@
+fileFormatVersion: 2
+guid: d28cb6e7d6d53e3478ab06d5e6b1a648
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8569289665719893683
+    second: cultistboss_0
+  - first:
+      213: 323372505437504714
+    second: cultistboss_1
+  - first:
+      213: 1057340380212643522
+    second: cultistboss_2
+  - first:
+      213: -4345127676895967745
+    second: cultistboss_3
+  - first:
+      213: -7259380096796599799
+    second: cultistboss_4
+  - first:
+      213: -3595970488309971150
+    second: cultistboss_5
+  - first:
+      213: -857320115749846590
+    second: cultistboss_6
+  - first:
+      213: 208089038217536499
+    second: cultistboss_7
+  - first:
+      213: -7372534653281984059
+    second: cultistboss_8
+  - first:
+      213: 7814453306213805104
+    second: cultistboss_9
+  - first:
+      213: 7003301539777920918
+    second: cultistboss_10
+  - first:
+      213: -8778942470082524581
+    second: cultistboss_11
+  - first:
+      213: 2826411875181204529
+    second: cultistboss_12
+  - first:
+      213: 858303242289399744
+    second: cultistboss_13
+  - first:
+      213: -7857757713619481796
+    second: cultistboss_14
+  - first:
+      213: 3056521421798888545
+    second: cultistboss_15
+  - first:
+      213: 2932268121982447877
+    second: cultistboss_16
+  - first:
+      213: -2946877962612907362
+    second: cultistboss_17
+  - first:
+      213: 402636767729217865
+    second: cultistboss_18
+  - first:
+      213: -6274219210095246460
+    second: cultistboss_19
+  - first:
+      213: -8828542726995693264
+    second: cultistboss_20
+  - first:
+      213: 5885971340695733410
+    second: cultistboss_21
+  - first:
+      213: 6786125257578966000
+    second: cultistboss_22
+  - first:
+      213: -4720671007501037091
+    second: cultistboss_23
+  - first:
+      213: 5955732402272876201
+    second: cultistboss_24
+  - first:
+      213: 2198644911097885501
+    second: cultistboss_25
+  - first:
+      213: -3870181847962365460
+    second: cultistboss_26
+  - first:
+      213: -2740019846996258242
+    second: cultistboss_27
+  - first:
+      213: -3159519073615791778
+    second: cultistboss_28
+  - first:
+      213: -519833199771038356
+    second: cultistboss_29
+  - first:
+      213: 8667207016253873812
+    second: cultistboss_30
+  - first:
+      213: -1879628583185825293
+    second: cultistboss_31
+  - first:
+      213: -5058811014894396985
+    second: cultistboss_32
+  - first:
+      213: -639622461588448716
+    second: cultistboss_33
+  - first:
+      213: 2291067585596569264
+    second: cultistboss_34
+  - first:
+      213: -4766524901225316772
+    second: cultistboss_35
+  - first:
+      213: -8946284591641844108
+    second: cultistboss_36
+  - first:
+      213: -6950160011574848524
+    second: cultistboss_37
+  - first:
+      213: 8187952948702781040
+    second: cultistboss_38
+  - first:
+      213: 3469403758544438913
+    second: cultistboss_39
+  - first:
+      213: 8251108501306331295
+    second: cultistboss_40
+  - first:
+      213: 5388460139292446612
+    second: cultistboss_41
+  - first:
+      213: -1070027292510539966
+    second: cultistboss_42
+  - first:
+      213: 3946044801774620478
+    second: cultistboss_43
+  - first:
+      213: -7226487617340782378
+    second: cultistboss_44
+  - first:
+      213: -5990012595784251
+    second: cultistboss_45
+  - first:
+      213: -6449922320459978194
+    second: cultistboss_46
+  - first:
+      213: -8407012439337266272
+    second: cultistboss_47
+  - first:
+      213: -7676400822329944698
+    second: cultistboss_48
+  - first:
+      213: 7132279238715423587
+    second: cultistboss_49
+  - first:
+      213: -8391189856698054254
+    second: cultistboss_50
+  - first:
+      213: 875495409323445535
+    second: cultistboss_51
+  - first:
+      213: -2148419064932258788
+    second: cultistboss_52
+  - first:
+      213: 7834596596185882040
+    second: cultistboss_53
+  - first:
+      213: 1471931932478614951
+    second: cultistboss_54
+  - first:
+      213: -2531883672610317757
+    second: cultistboss_55
+  - first:
+      213: -7660761899175558652
+    second: cultistboss_56
+  - first:
+      213: 3137490569661006612
+    second: cultistboss_57
+  - first:
+      213: -3781971738246608132
+    second: cultistboss_58
+  - first:
+      213: 2766555757705638734
+    second: cultistboss_59
+  - first:
+      213: 5542707989288035708
+    second: cultistboss_60
+  - first:
+      213: 5843187087808791991
+    second: cultistboss_61
+  - first:
+      213: 4876354150411647429
+    second: cultistboss_62
+  - first:
+      213: -4217924855385723433
+    second: cultistboss_63
+  - first:
+      213: 949594191285639339
+    second: cultistboss_64
+  - first:
+      213: -5910494268782436719
+    second: cultistboss_65
+  - first:
+      213: -5415458856582201594
+    second: cultistboss_66
+  - first:
+      213: -4470887237407242426
+    second: cultistboss_67
+  - first:
+      213: 1413405922190938107
+    second: cultistboss_68
+  - first:
+      213: 7202732077489538199
+    second: cultistboss_69
+  - first:
+      213: 1671177662544644067
+    second: cultistboss_70
+  - first:
+      213: 1583858848862549071
+    second: cultistboss_71
+  - first:
+      213: 6895142128754415208
+    second: cultistboss_72
+  - first:
+      213: -3253058438008585136
+    second: cultistboss_73
+  - first:
+      213: 6883544809616391761
+    second: cultistboss_74
+  - first:
+      213: -6740166720623073534
+    second: cultistboss_75
+  - first:
+      213: 7045801199292069778
+    second: cultistboss_76
+  - first:
+      213: 1166095979190486886
+    second: cultistboss_77
+  - first:
+      213: -2239675638598461387
+    second: cultistboss_78
+  - first:
+      213: 955575178132778522
+    second: cultistboss_79
+  - first:
+      213: -9041917571209631970
+    second: cultistboss_80
+  - first:
+      213: 2149376649357197688
+    second: cultistboss_81
+  - first:
+      213: -6813825693192737751
+    second: cultistboss_82
+  - first:
+      213: 6106314820385581718
+    second: cultistboss_83
+  - first:
+      213: -6835690744447147679
+    second: cultistboss_84
+  - first:
+      213: -7847091660396407747
+    second: cultistboss_85
+  - first:
+      213: -8904228998042804599
+    second: cultistboss_86
+  - first:
+      213: -8451573815703458731
+    second: cultistboss_87
+  - first:
+      213: 629831406039510527
+    second: cultistboss_88
+  - first:
+      213: -3309873380058393683
+    second: cultistboss_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cultistboss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4107597374c31980800000000000000
+      internalID: -8569289665719893683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 664
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40bb49499dc7400800000000000000
+      internalID: 323372505437504714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 664
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c64049497d6cae00800000000000000
+      internalID: 1057340380212643522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 664
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c5ea366103b3c0800000000000000
+      internalID: -4345127676895967745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 664
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ad5e88340814b90800000000000000
+      internalID: -7259380096796599799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370f75a4eb881ec0800000000000000
+      internalID: -3595970488309971150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 664
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c10fe1a5ef2a14f0800000000000000
+      internalID: -857320115749846590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 664
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3eb94b0e743e200800000000000000
+      internalID: 208089038217536499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 664
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1aed05bce7fa990800000000000000
+      internalID: -7372534653281984059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 664
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c20c611e3827c60800000000000000
+      internalID: 7814453306213805104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 609
+        width: 13
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb86535a9b03160800000000000000
+      internalID: 7003301539777920918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 664
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0427165eea2680800000000000000
+      internalID: -8778942470082524581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 592
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341f1120ae693720800000000000000
+      internalID: 2826411875181204529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 592
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c93a504e49eb00800000000000000
+      internalID: 858303242289399744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 592
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b00acddf2a3f290800000000000000
+      internalID: -7857757713619481796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 592
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d1baf902fa6a20800000000000000
+      internalID: 3056521421798888545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 590
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50137f4325281b820800000000000000
+      internalID: 2932268121982447877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 601
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e7023b169a17d0800000000000000
+      internalID: -2946877962612907362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 606
+        width: 99
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f20ac104769500800000000000000
+      internalID: 402636767729217865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 516
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834753eede7de8a0800000000000000
+      internalID: -6274219210095246460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 517
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03130195a27ba7580800000000000000
+      internalID: -8828542726995693264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 518
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48c48cfbb2fa150800000000000000
+      internalID: 5885971340695733410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 519
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbec43a7f82d2e50800000000000000
+      internalID: 6786125257578966000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 520
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15a68dabecc7eb0800000000000000
+      internalID: -4720671007501037091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 520
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a632c6a01307a250800000000000000
+      internalID: 5955732402272876201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 448
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b531d5e7238e10800000000000000
+      internalID: 2198644911097885501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 448
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d9084d1a5a4ac0800000000000000
+      internalID: -3870181847962365460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 448
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329446677e79f9d0800000000000000
+      internalID: -2740019846996258242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 448
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593f0474222724d0800000000000000
+      internalID: -3159519073615791778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 448
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4131857e29c8f0800000000000000
+      internalID: -519833199771038356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 448
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed5964cda184870800000000000000
+      internalID: 8667207016253873812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 432
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c98523c73ae5e0800000000000000
+      internalID: -1879628583185825293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 448
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d2674f2e7bc9b0800000000000000
+      internalID: -5058811014894396985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 449
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad8a292ca9f17f0800000000000000
+      internalID: -639622461588448716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 448
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b635eb94d18bcf10800000000000000
+      internalID: 2291067585596569264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 448
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e39614bd6e9ddb0800000000000000
+      internalID: -4766524901225316772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 376
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47623a7309968d380800000000000000
+      internalID: -8946284591641844108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 376
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d4f10b421c8f90800000000000000
+      internalID: -6950160011574848524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 376
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9a0143d371a170800000000000000
+      internalID: 8187952948702781040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 376
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864272365cc52030800000000000000
+      internalID: 3469403758544438913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 371
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d1973773d18270800000000000000
+      internalID: 8251108501306331295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 371
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc0e882f7a7ca40800000000000000
+      internalID: 5388460139292446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_42
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 370
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fafe1c8df7621f0800000000000000
+      internalID: -1070027292510539966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 375
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8d8517da23c630800000000000000
+      internalID: 3946044801774620478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_44
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 379
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c4a2bccb56bb90800000000000000
+      internalID: -7226487617340782378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 382
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c537038d18baeff0800000000000000
+      internalID: -5990012595784251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_46
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 381
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aae1c92d54d76a0800000000000000
+      internalID: -6449922320459978194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3130b8aba445b80800000000000000
+      internalID: -8407012439337266272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d1879f12f77590800000000000000
+      internalID: -7676400822329944698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb68edd22faf260800000000000000
+      internalID: 7132279238715423587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_50
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c6a4a8418c8b80800000000000000
+      internalID: -8391189856698054254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d853baf62662c00800000000000000
+      internalID: 875495409323445535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c29064e384f22e0800000000000000
+      internalID: -2148419064932258788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd42248141abc60800000000000000
+      internalID: 7834596596185882040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_54
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad21f04b4a5d6410800000000000000
+      internalID: 1471931932478614951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_55
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5379d631fcdcd0800000000000000
+      internalID: -2531883672610317757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_56
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 304
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024bc224a18fa590800000000000000
+      internalID: -7660761899175558652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_57
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 304
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41348cacc0b9a8b20800000000000000
+      internalID: 3137490569661006612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 232
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8e37edbcb38bc0800000000000000
+      internalID: -3781971738246608132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 232
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433b55cdc7c46620800000000000000
+      internalID: 2766555757705638734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 232
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ab3bbc87abec40800000000000000
+      internalID: 5542707989288035708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 144
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50ef4a2bb271150800000000000000
+      internalID: 5843187087808791991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 232
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9b946834a4ca340800000000000000
+      internalID: 4876354150411647429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 232
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd617901bbe675c0800000000000000
+      internalID: -4217924855385723433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 158
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8da54c2e2ad2d00800000000000000
+      internalID: 949594191285639339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_65
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 158
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9d3617c4b9fda0800000000000000
+      internalID: -5910494268782436719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 158
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fbcadbcdc68d4b0800000000000000
+      internalID: -5415458856582201594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 158
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647838fceb734f1c0800000000000000
+      internalID: -4470887237407242426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 158
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcf9b923d6d9310800000000000000
+      internalID: 1413405922190938107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_69
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 158
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794431ba9ae35f360800000000000000
+      internalID: 7202732077489538199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_70
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 159
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78a84da37313710800000000000000
+      internalID: 1671177662544644067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_71
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 158
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44bfcc3b3ffaf510800000000000000
+      internalID: 1583858848862549071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_72
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 187
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866dc3ceb3770bf50800000000000000
+      internalID: 6895142128754415208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_73
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 158
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05449e80690dad2d0800000000000000
+      internalID: -3253058438008585136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_74
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 88
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3ba4a883478f50800000000000000
+      internalID: 6883544809616391761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 88
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2072a5a141e1672a0800000000000000
+      internalID: -6740166720623073534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 88
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29733d94cd6b7c160800000000000000
+      internalID: 7045801199292069778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_77
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 88
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66709a56d1ece2010800000000000000
+      internalID: 1166095979190486886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381e3d7fd21be0e0800000000000000
+      internalID: -2239675638598461387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 88
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee8c8cf82e24d00800000000000000
+      internalID: 955575178132778522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_80
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 88
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17efa700e7a48280800000000000000
+      internalID: -9041917571209631970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_81
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 88
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718479bcae14dd10800000000000000
+      internalID: 2149376649357197688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_82
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 88
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c21db12ad6071a0800000000000000
+      internalID: -6813825693192737751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_83
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 88
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a29cbf9fcfdb450800000000000000
+      internalID: 6106314820385581718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616dc62c7fb221a0800000000000000
+      internalID: -6835690744447147679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_85
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345426e5b7891390800000000000000
+      internalID: -7847091660396407747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1de427e2dd6480800000000000000
+      internalID: -8904228998042804599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_87
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca00a946af5ba80800000000000000
+      internalID: -8451573815703458731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdae59a35c9db800800000000000000
+      internalID: 629831406039510527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultistboss_89
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3191282b7f012d0800000000000000
+      internalID: -3309873380058393683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
